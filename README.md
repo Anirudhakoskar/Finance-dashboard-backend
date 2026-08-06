@@ -8,7 +8,7 @@ It demonstrates backend development concepts such as authentication, role-based 
 
 ---
 
-## 🚀 Features
+## 🚀 Features ##
 
 * 🔐 User Authentication (JWT-based)
 * 👥 Role-Based Access Control (Viewer, Analyst, Admin)
