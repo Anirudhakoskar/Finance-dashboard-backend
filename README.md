@@ -1,6 +1,6 @@
 # 💰 Finance Dashboard Backend
 
-## 📖 Overview
+## 📖 Overview ##
 
 This project is a backend system for a finance dashboard that manages users, financial records, and analytics.
 
@@ -31,7 +31,6 @@ It demonstrates backend development concepts such as authentication, role-based 
 * MongoDB
 * Mongoose
 * JWT (jsonwebtoken)
-* bcryptjs
 
 ---
 
@@ -96,7 +95,7 @@ Authorization: Bearer <JWT_TOKEN>
 
 ---
 
-## 📊 Example Dashboard Response
+## 📊 Example Dashboard Response ##
 
 ### Summary
 
