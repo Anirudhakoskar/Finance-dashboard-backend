@@ -1,4 +1,4 @@
-# 💰 Finance Dashboard Backend
+# 💰📈 Finance Dashboard Backend
 
 ## 📖 Overview ##
 
@@ -146,7 +146,7 @@ Authorization: Bearer <JWT_TOKEN>
 
 ## 👨‍💻 Author
 
-**Anirudh Akoskar**
+** Anirudh Akoskar **
 
 ---
 
