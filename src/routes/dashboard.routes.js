@@ -3,7 +3,7 @@ import { getSummary, getCategoryBreakdown } from "../controllers/dashboard.contr
 import { protect } from "../middleware/auth.middleware.js";
 
 const router = express.Router();
-
+//
 router.get("/summary", protect, getSummary);
 router.get("/categories", protect, getCategoryBreakdown);
 
