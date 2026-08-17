@@ -1,6 +1,6 @@
 import Record from "../models/record.model.js";
 
-// ✅ CREATE RECORD
+// ✅ CREATE RECORD =>>>>
 export const createRecord = async (req, res) => {
   try {
     const record = await Record.create({
