@@ -2,7 +2,7 @@ import User from "../models/user.model.js";
 import bcrypt from "bcryptjs";
 import jwt from "jsonwebtoken";
 
-// ✅ REGISTER
+// ✅ REGISTER =>>>>
 export const register = async (req, res) => {
   try {
     const { name, email, password, role } = req.body;
