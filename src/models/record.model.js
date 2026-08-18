@@ -26,5 +26,5 @@ const recordSchema = new mongoose.Schema({
     type: String
   }
 }, { timestamps: true });
-
+// export >>>>
 export default mongoose.model("Record", recordSchema);
