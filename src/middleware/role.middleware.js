@@ -1,4 +1,4 @@
-//role middleware 
+//role middleware >>>>>
 
 export const allowRoles = (...roles) => {
   return (req, res, next) => {
