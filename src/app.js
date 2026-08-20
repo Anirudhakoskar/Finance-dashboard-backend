@@ -15,5 +15,5 @@ app.use("/api/dashboard", dashboardRoutes);
 app.get("/", (req, res) => {
   res.send("API Running...");
 });
-
+//export >>>>
 export default app;
