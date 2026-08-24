@@ -146,7 +146,7 @@ Authorization: Bearer <JWT_TOKEN>
 
 ## 👨‍💻 Author
 
-** Anirudh Akoskar **
+** Anirudh Akoskar  **
 
 ---
 
@@ -154,4 +154,4 @@ Authorization: Bearer <JWT_TOKEN>
 
 This project demonstrates a complete backend system with secure authentication, structured APIs, and real-world financial data processing.
 
----
+_____*______
