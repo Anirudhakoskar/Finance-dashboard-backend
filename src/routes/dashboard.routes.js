@@ -1,7 +1,7 @@
 import express from "express";
 import { getSummary, getCategoryBreakdown } from "../controllers/dashboard.controller.js";
 import { protect } from "../middleware/auth.middleware.js";
-//router >>>>>>>>>>>
+//router >>>>>>>
 const router = express.Router();
 
 router.get("/summary", protect, getSummary);
