@@ -3,7 +3,7 @@ import cors from "cors";
 import authRoutes from "./routes/auth.routes.js";
 import recordRoutes from "./routes/record.routes.js";
 import dashboardRoutes from "./routes/dashboard.routes.js";
-//app >>>>
+//app >>>>>>>>>>>>>
 const app = express();
 
 app.use(cors());
