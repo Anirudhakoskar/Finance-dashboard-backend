@@ -3,7 +3,7 @@ import { createRecord, getRecords } from "../controllers/record.controller.js";
 import { protect } from "../middleware/auth.middleware.js";
 import { allowRoles } from "../middleware/role.middleware.js";
 import { updateRecord, deleteRecord } from "../controllers/record.controller.js";
-//router >>>
+//router >>>>>>>>>
 const router = express.Router();
 
 router.post("/", protect, allowRoles("admin"), createRecord);
