@@ -1,5 +1,6 @@
 import mongoose from "mongoose";
-//for user >>>>>>>>>>
+//for records
+
 const userSchema = new mongoose.Schema({
   name: {
     type: String,
