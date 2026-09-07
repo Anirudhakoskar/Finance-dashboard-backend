@@ -1,5 +1,6 @@
 import mongoose from "mongoose";
-//for records >>>>>>
+//fro records
+
 const recordSchema = new mongoose.Schema({
   userId: {
     type: mongoose.Schema.Types.ObjectId,
