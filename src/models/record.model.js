@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-//fro records
+
 
 const recordSchema = new mongoose.Schema({
   userId: {
